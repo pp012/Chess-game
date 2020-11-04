@@ -1,0 +1,8 @@
+Here I have created a chess game with engine written in java and gui in swing.
+In this game one can play against computer or against a person.
+I have used google guava library of java for creating immutable maps and immutable list.
+I have used many of the major concepts of java for this project.
+For AI i have used MiniMax algorithm.
+There is a panel which keeps track of and displays the pieces lost by player and displays them.
+There is a highlighter which displays possible moves.
+All of the possible chess moves from castling to checkmating are possible.
